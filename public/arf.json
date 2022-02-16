@@ -5,9 +5,9 @@
     {
       "children": [
       {
-        "name": "Namechk",
+        "name": "Example Name",
         "type": "url",
-        "url": "https://namechk.com/"
+        "url": "https://example.com"
       },
       {
         "name": "Namechk (T)",
